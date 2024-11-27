@@ -1,9 +1,5 @@
 # Tackle Keyboard
 
-![Tackle keyboard from a top view](images/tackle-top-view.jpg)
-
-![Tackle keyboard from an edge side view](images/tackle-edge-side-view.jpg)
-
 Tackle is a wearable 48 key ortholinear keyboard, powered by a bluetooth-enabled Pro Micro compatible dev board.
 
 It uses Choc v1 keyswitches with 18mm x 17mm spacing.

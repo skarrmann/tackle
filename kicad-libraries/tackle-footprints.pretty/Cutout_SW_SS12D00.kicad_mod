@@ -65,7 +65,7 @@
 			)
 		)
 	)
-	(attr through_hole)
+	(attr through_hole exclude_from_bom)
 	(fp_rect
 		(start -5.8 -2)
 		(end 5.8 2)
