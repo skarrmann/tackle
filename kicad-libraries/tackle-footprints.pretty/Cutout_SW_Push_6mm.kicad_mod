@@ -1,0 +1,147 @@
+(footprint "Cutout_SW_Push_6mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Cutout for 6mmx6mm push button")
+	(tags "cutout, button, tactile, 6mm")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "239bd0c1-7d24-40b1-8ecd-85f82d90c459")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Cutout_SW_Push_6mm_1"
+		(at 0 -1.5 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3003fcaf-8293-4313-b0f3-229961f5a20b")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7c433766-ab3f-45b2-be8a-4f6aed28f6a9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5622bbef-e4d9-4677-9288-cb8aeeb3ae0a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d37f7d65-b07d-4aa1-90ad-c828a891fabe")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -3 -3)
+		(end 0 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "83973a35-fec2-48af-bf67-671eb44e4636")
+	)
+	(fp_line
+		(start -3 3)
+		(end -3 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "43204734-1c0e-4ac5-bb89-023236f3dbc4")
+	)
+	(fp_line
+		(start 0 -3)
+		(end 3 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a0172379-1afc-40b2-85f2-09207f2a99ec")
+	)
+	(fp_line
+		(start 3 -3)
+		(end 3 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "55113079-323a-40f0-bc94-4aaf48f78a5b")
+	)
+	(fp_line
+		(start 3 3)
+		(end -3 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7c81396b-1113-44e5-9b93-cf598be195e0")
+	)
+	(pad "" np_thru_hole circle
+		(at -3.25 -2.25)
+		(size 2.2 2.2)
+		(drill 2.2)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "b7f6c336-bea9-4b10-9fac-c9c0a9c71687")
+	)
+	(pad "" np_thru_hole circle
+		(at -3.25 2.25)
+		(size 2.2 2.2)
+		(drill 2.2)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "06687702-4960-4525-a051-564c7861a082")
+	)
+	(pad "" np_thru_hole circle
+		(at 3.25 -2.25)
+		(size 2.2 2.2)
+		(drill 2.2)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "ac8bf0ee-822c-44a4-bca3-d376be3a9d97")
+	)
+	(pad "" np_thru_hole circle
+		(at 3.25 2.25)
+		(size 2.2 2.2)
+		(drill 2.2)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "f303ffa9-bb76-4382-bafb-8ec0eff2eeef")
+	)
+)

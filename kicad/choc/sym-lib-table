@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "tackle-components")(type "KiCad")(uri "${KIPRJMOD}/../../kicad-libraries/tackle-components/tackle-components.kicad_sym")(options "")(descr ""))
+)
