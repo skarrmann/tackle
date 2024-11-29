@@ -4,7 +4,7 @@ Tackle is a wearable 48 key ortholinear keyboard, powered by a bluetooth-enabled
 
 It uses Choc v1 keyswitches with 18mm x 17mm spacing.
 
-Tackle is strapped to your chest so you can type anywhere your hands are free.
+Tackle is strapped to your torso so you can type anywhere your hands are free.
 
 ## Project structure
 
@@ -74,11 +74,7 @@ These are the manufacturing settings I used when ordering from JLCPCB:
 * Don't plug in the battery until you're done soldering everything! **MAKE SURE THE BLACK WIRE (-) IS ON TOP AND THE RED WIRE (+) IS ON BOTTOM, OR YOU'LL FRY YOUR DEV BOARD!** Use tape to secure the battery and its wires.
     * ![Tackle keyboard build, battery taped in place](images/tackle-battery-install.jpg)
 
-## KiCad project notes
-
-The top plate was generated with the [Horizon Board Producer KiCad plugin](https://github.com/skarrmann/horizon#kicad-project-notes).
-
 ## Revision history
 
-* Tackle 1.0 (2024-11-26)
+* Tackle 1.0 (2024-11-28)
     * Initial Choc switch PCB design
