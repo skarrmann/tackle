@@ -76,5 +76,7 @@ These are the manufacturing settings I used when ordering from JLCPCB:
 
 ## Revision history
 
+* Tackle 1.1 (2024-12-13)
+    * Widen cutout for dev board and battery, to make sawing PCBs easier
 * Tackle 1.0 (2024-11-28)
     * Initial Choc switch PCB design

@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Tackle Choc")
-		(date "2024-11-28")
-		(rev "1.0")
+		(date "2024-12-13")
+		(rev "1.1")
 		(company "skarrmann")
 	)
 	(lib_symbols
