@@ -1,10 +1,20 @@
 # Tackle Keyboard
 
+![Tackle keyboard upright view](images/tackle-upright.jpg)
+
+![Tackle keyboard back view](images/tackle-back.jpg)
+
+![Tackle keyboard side view](images/tackle-side.jpg)
+
+![Tackle keyboard with straps view](images/tackle-with-straps.jpg)
+
 Tackle is a wearable 48 key ortholinear keyboard, powered by a bluetooth-enabled Pro Micro compatible dev board.
 
 It uses Choc v1 keyswitches with 18mm x 17mm spacing.
 
 Tackle is strapped to your torso so you can type anywhere your hands are free.
+
+[Typing demonstration video](https://youtu.be/kZD4jYyr6XI?si=NpnWW7PNuFhlqIOq)
 
 ## Project structure
 
@@ -22,7 +32,7 @@ Tackle is strapped to your torso so you can type anywhere your hands are free.
 
 One PCB is used as the logical PCB. All components are soldered on to this board.
 
-Three PCBs are used as center plates to encase the microcontroller dev board and battery. Note breakout sections of these PCBs must be cut out.
+Three PCBs are used as center plates to encase the microcontroller dev board and battery. Note the breakout sections of these PCBs must be cut out.
 
 A final PCB is used as the bottom plate. All the PCBs are screwed directly together.
 
